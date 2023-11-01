@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "200114891531",
+    "project_id": "message-d8162",
+    "storage_bucket": "message-d8162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200114891531:android:b17050e502dba5c666500e",
+        "android_client_info": {
+          "package_name": "pt.estg.mi_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200114891531-kab26n59k3hek72fbvsll3i603uo3iut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyBANNFktF5yHFd_TeT_4Wy9cV3Wn_KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200114891531-kab26n59k3hek72fbvsll3i603uo3iut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200114891531:android:b060c4a967447c7566500e",
+        "android_client_info": {
+          "package_name": "pt.estg.mi_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200114891531-kab26n59k3hek72fbvsll3i603uo3iut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyBANNFktF5yHFd_TeT_4Wy9cV3Wn_KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200114891531-kab26n59k3hek72fbvsll3i603uo3iut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
